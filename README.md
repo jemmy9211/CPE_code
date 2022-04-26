@@ -12,6 +12,17 @@ source:[UVa online judge](https://onlinejudge.org/index.php?option=com_frontpage
 --- 
 **STL常見用法筆記**  
 + vector 
+``` C
+#include<vector>
+
+vector<int> vec;
+vec.push_back();
+vec.pop_back();
+vec.insert();
+vec.size();
+vec[i];
+
+```
 + 
 
 

@@ -4,15 +4,16 @@
 **這次會把題庫刷盡量刷完不想裸考**  
 --- 
 ***刷題計畫***  
-source:[UVa online judge](https://onlinejudge.org/index.php?option=com_frontpage&Itemid=1)  
+source:  
+[UVa online judge](https://onlinejudge.org/index.php?option=com_frontpage&Itemid=1)  
+[codeforces](https://codeforces.com/)  
+[leetcode](https://leetcode.com/)  
+
 + UVA12908 done
 + UVA10642 done
 + UVA13171 done  
 + UVA11360 done  
-+ UVA11078 done
-
-
-
++ UVA11078 done 
 
 --- 
 **STL常見用法筆記**  

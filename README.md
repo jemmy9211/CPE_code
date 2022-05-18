@@ -15,6 +15,7 @@ source:
 + UVA11360 done  
 + UVA11078 done 
 + LEETCODE14 done 
++ LEETCODE21 done 
 
 --- 
 **STL常見用法筆記**  
@@ -37,6 +38,24 @@ while(getchar()!='\n')
 
 string s;
 s[3]=getchar();
+```
+
++ linked list
+``` C
+/**
+ * Definition for singly-linked list.
+ * struct ListNode {
+ *     int val;
+ *     ListNode *next;
+ *     ListNode() : val(0), next(nullptr) {}
+ *     ListNode(int x) : val(x), next(nullptr) {}
+ *     ListNode(int x, ListNode *next) : val(x), next(next) {}
+ * };
+ */
+ ListNode* list1;
+ ListNode* list2;
+ list1->next=list2;
+ list1->val=list2->val;
 ```
 
 

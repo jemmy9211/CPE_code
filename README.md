@@ -13,7 +13,8 @@ source:
 + UVA10642 done
 + UVA13171 done  
 + UVA11360 done  
-+ UVA11078 done 
++ UVA11078 done   
++ UVA10050 done   
 + LEETCODE14 done 
 + LEETCODE21 done 
 

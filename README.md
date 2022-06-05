@@ -18,6 +18,7 @@ source:
 + UVA10050 done   
 + LEETCODE14 done 
 + LEETCODE21 done 
++ LEETCODE20 done 
 
 --- 
 **STL常見用法筆記**  
@@ -32,6 +33,15 @@ vec.insert();
 vec.size();
 vec[i];
 
+```
++ stack
+``` C
+stack<char> stk;
+stk.push('a');
+stk.pop();
+stk.empty();
+stk.size();
+stk.top();
 ```
 + getchar()
 ``` C

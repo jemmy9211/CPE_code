@@ -24,6 +24,7 @@ source:
 + LEETCODE83 done  
 + LEETCODE35 done
 + LEETCODE94 done
++ LEETCODE5  done
 
 --- 
 **STL常見用法筆記**  
